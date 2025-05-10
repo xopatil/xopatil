@@ -1,4 +1,4 @@
-#About Me:
+About Me:
 I'm currently a third year undergrad.<br>Passionate about coding and learning new concepts.<br>Work experience:<br>-MVC2 architecture design pattern <br>-Java web developer<br>
 
 
